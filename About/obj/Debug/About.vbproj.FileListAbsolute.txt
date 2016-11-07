@@ -1,0 +1,10 @@
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\bin\Debug\About.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\bin\Debug\About.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\bin\Debug\About.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\bin\Debug\About.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.Form1.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.vbproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\About\obj\Debug\About.pdb

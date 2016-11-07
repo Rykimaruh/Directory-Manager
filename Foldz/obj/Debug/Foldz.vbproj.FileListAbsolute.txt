@@ -1,0 +1,16 @@
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\bin\Debug\Foldz.exe.config
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.Form1.resources
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.vbproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\bin\Debug\Foldz.exe
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\bin\Debug\Foldz.pdb
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\bin\Debug\Foldz.xml
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.exe
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.xml
+c:\users\john\documents\visual studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\bin\Debug\About.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\bin\Debug\About.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\bin\Debug\About.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.vbprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.CustomMessageBox.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Foldz\Foldz\obj\Debug\Foldz.Delete_Directories.resources
